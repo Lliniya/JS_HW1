@@ -7,5 +7,6 @@
 
 ![Code_52CMpYr7DQ](https://user-images.githubusercontent.com/105708734/177504100-9a50e6b0-a1af-4a4f-8e8c-efa1345f1c2e.png)
 
+3. Создать переменную “item_3”, присвоить ей сложение item_1 и item_2, вывести в консоль item_3
 
-
+![Code_uFMuXCH2EN](https://user-images.githubusercontent.com/105708734/177504593-3afc05ce-a038-4459-961e-70919b9cae23.png)

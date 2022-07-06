@@ -58,7 +58,6 @@
     
    ![Code_bIIeu3qBsd](https://user-images.githubusercontent.com/105708734/177561665-6ad60738-24a3-4dc3-9a06-da9c8f1cabc6.png)
 
-
 2. Преобразовать задание 1* таким образом, чтобы первым делом в функции проверялся тип данных. И если он не Number - кидалась ошибка.
 
 ![Code_Xii4NCFj66](https://user-images.githubusercontent.com/105708734/177561537-fa515be4-daec-46c9-891d-e664f8de1c6f.png)

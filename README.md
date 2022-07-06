@@ -61,7 +61,7 @@
 
 2. Преобразовать задание 1* таким образом, чтобы первым делом в функции проверялся тип данных. И если он не Number - кидалась ошибка.
 
-    ![Code_Xii4NCFj66](https://user-images.githubusercontent.com/105708734/177561537-fa515be4-daec-46c9-891d-e664f8de1c6f.png)
+   ![Code_Xii4NCFj66](https://user-images.githubusercontent.com/105708734/177561537-fa515be4-daec-46c9-891d-e664f8de1c6f.png)
 
 
  

@@ -31,6 +31,17 @@
 
 ![Code_e7dS58XLTb](https://user-images.githubusercontent.com/105708734/177506390-2b0245d0-caa8-446d-828c-6108847f6869.png)
 
+9. Создать переменную item_7 и в ней преобразовать item_6 в String
+
+![Code_tUYR0oFDCo](https://user-images.githubusercontent.com/105708734/177506732-6b7d9adc-c4ea-4993-880a-e8cd755ba6f4.png)
+
+10. Создать переменную item_7_type, присвоить ей тип переменной item_7. Затем вывести в консоль тип данных item_7 в виде ——  “item_7 == ”  item_7,  “item_7_type == ”  item_7_type ——
+
+![Code_2OaOVPDKfE](https://user-images.githubusercontent.com/105708734/177507070-efb80755-824a-4760-acb0-da8474b36f86.png)
+
+11. Создать переменную “age_1” и присвоить ей значение 10
+    Создать переменную “age_2” и присвоить ей значение 18
+    Создать переменную “age_3” и присвоить ей значение 60
 
 
  

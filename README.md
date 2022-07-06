@@ -10,3 +10,7 @@
 3. Создать переменную “item_3”, присвоить ей сложение item_1 и item_2, вывести в консоль item_3
 
 ![Code_uFMuXCH2EN](https://user-images.githubusercontent.com/105708734/177504593-3afc05ce-a038-4459-961e-70919b9cae23.png)
+
+4. Создать переменную “item_4”, присвоить ей строку “Yolochka”, вывести в консоль item_4
+
+![Code_e2Xt6AIBv3](https://user-images.githubusercontent.com/105708734/177504905-e12ccf0b-1f1c-4041-bc9e-11a702b1715c.png)

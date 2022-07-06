@@ -63,7 +63,12 @@
    ![Code_Xii4NCFj66](https://user-images.githubusercontent.com/105708734/177561537-fa515be4-daec-46c9-891d-e664f8de1c6f.png)
 
 
- 3. Преобразовать задание 2* таким образом, чтобы значение '2' (строка в которой лежит ТОЛЬКО ЦИФРА) пропускалось, преобразовываясь в number
+3. Преобразовать задание 2* таким образом, чтобы значение '2' (строка в которой лежит ТОЛЬКО ЦИФРА) пропускалось, преобразовываясь в number
 
-    ![Code_Ug249CJFtx](https://user-images.githubusercontent.com/105708734/177562559-65505e0c-4c66-443d-8dda-5132f7c07c67.png)
+   ![Code_Ug249CJFtx](https://user-images.githubusercontent.com/105708734/177562559-65505e0c-4c66-443d-8dda-5132f7c07c67.png)
+
+4. Преобразовать задание 3* таким образом, чтобы возраст вводился, используя функцию prompt в привязанной верстке
+
+   ![Code_1QdJDZ46Qo](https://user-images.githubusercontent.com/105708734/177563505-ab669be3-ada9-410e-894c-c6f89c4c2757.png)
+
 

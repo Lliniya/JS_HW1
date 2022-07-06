@@ -43,5 +43,18 @@
     Создать переменную “age_2” и присвоить ей значение 18                                                                           
     Создать переменную “age_3” и присвоить ей значение 60                                          
 
+![Code_PvkUKAd4gP](https://user-images.githubusercontent.com/105708734/177507433-411cd0e3-06c3-4502-b168-6d9e558c796a.png)
+
+12. Создать if в котором будете проверять значение переменной age_1                                                  
+    Если age_1 < age_2, вывести в консоль “You don’t have access cause your age is ” + age_1 + “ It’s less then ”                                     
+    Если age_1 >=  age_2 и age_1 <  age_3, вывести в консоль “Welcome  !”                                              
+    Если age_1  > age_3, вывести в консоль “Keep calm and look Culture channel”                                                                    
+    Иначе выводите “Technical work”
+   
+   ![Code_KwikLz5Dii](https://user-images.githubusercontent.com/105708734/177507950-d139bb4c-4a01-4225-9029-033f43aa142d.png)
+
+    
+    
+    
 
  

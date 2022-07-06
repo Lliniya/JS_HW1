@@ -14,3 +14,8 @@
 4. Создать переменную “item_4”, присвоить ей строку “Yolochka”, вывести в консоль item_4
 
 ![Code_e2Xt6AIBv3](https://user-images.githubusercontent.com/105708734/177504905-e12ccf0b-1f1c-4041-bc9e-11a702b1715c.png)
+
+5. Вывести в консоль сложение item_3 и item_4, затем умножение item_3 и item_4
+
+![Code_Bcmh5oWRYc](https://user-images.githubusercontent.com/105708734/177505188-21e67c6e-ecdc-4823-9b2c-9cc40eb02e86.png)
+
